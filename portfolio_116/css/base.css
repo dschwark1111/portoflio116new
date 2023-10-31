@@ -1,0 +1,70 @@
+/*Variables
+Styles we can reuse*/
+
+:root{
+    --primary-color: #67949b;
+    --primary-color-100: #eab3ce;
+    --primary-color-300: #7ba1a7;
+
+    --secondary-color: #e3d4e1;
+        --secondary-color-600: #eab3ce;
+    --secondary-color-900: #f7f4f7;
+
+    --neutral-color: black;
+
+    --backgroud-color: #e8ecf3;
+
+    --surface-color: #e0d6ee;
+
+    --lobster-font: 'Lobster', sans-serif;
+    --sans-font: 'DM Sans', sans-serif;
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}    
+}
+
+
+/*general style to apply to all elements*/
+
+html{
+    font-size: 14px;
+    background-color: #e8ecf3;
+}
+
+*{
+    font-family: var(--sans-font);
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/*text style*/
+h1{
+    color: var(--primary-color);
+        font-size: 1.5;
+    text-transform: uppercase;
+    padding-top: 1rem;
+}
+
+h2{
+    color: var(--primary-color);
+    font-family: var(--lobster-font);
+    font-weight: 400;
+    letter-spacing: 0.06rem;
+    font-size: 1.5rem;
+    text-decoration: none;
+
+}
+
+p{
+    color: var(--neurtral-color);
+    font-size: 1.1rem;
+}
+
+.break {
+    position: absolute;
+    margin: -60;
+}

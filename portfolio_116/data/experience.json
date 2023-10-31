@@ -1,0 +1,25 @@
+[
+    
+{
+    "entity": "University of Phoenix",
+    "title": "Master of Business Administration",
+    "description": "Advanced degree that provides theoretical and practical training in business principles and leadership skills. ",
+    "period" : "June 2012 - Sept 2013",
+    "technology" : ["Marketing", "Strategic Positioning", "Management"]
+},
+{
+    "entity": "Full Sail University",
+    "title": "Masters in Digital Marketing",
+    "description": "Learned marketing principles & practice, data analysis, marketing communication, consumer behaviour, customer engagement strategies, advertising fundamentals, campaign planning, research methodology, SEO, SEM & lead generation",
+    "period" : "January 2021 - Dec 2021",
+    "technology" : ["Web Analytics", "Social Medica Strategy", "SEO"]
+},
+{
+    "entity": "San Diego Global Knowledge University",
+    "title": "Full Stack Developer Bootcamp",
+    "description": "Trained in every layer of a web application stack, to include user interface to front-end, middle-tier, & back-end components, using popular coding languages such as HTML, CSS, JavaScript, jQuery, Node.js, React, Asp.net, & Python as well as peripheral technologies & methodologies, including GitHub, Agile, & Scrum. ",
+    "period" : "July 2023 - December 2023",
+    "technology" : ["Front End Development", "Backend Development"]
+}
+
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "Pet Salon",
+        "description": "This is a website I designed for a Pet Salon. It offers online appointment booking and showcases the salons services. It is bright and airy and reflects the caring and fun nature of the business.",
+        "year" : 2023,
+        "img" : "../img/grm1.jpg",
+        "repository" : "https://github.com/",
+        "technologies" : ["HTML", "CSS", "Javascript"]
+    },
+    {
+        "name" : "Online Retail Store",
+        "description": "A simplistic online store design that allows for the ultimate user experience. The minimalistic design offers a features such as real time price for multiple items, a cart function and checkout function. Users can easily see their total and remove unwanted items with ease.",
+        "year" : 2023,
+        "img" : "../img/abcflashcard.jpg",
+        "repository" : "https://github.com/",
+        "technologies" : ["HTML", "CSS", "Javascript", "React"]
+    },
+    {
+        "name" : "Real Estate Website",
+        "description": "An elegant and minimalistic website that showcases a real estate company's offerings. The site caters to the user by showcasing what each property has to offer without the user needing to click on a property. Additionally, if offers side by side comparison which allows users to easily compare and choose the house that is right for their vacation needs.",
+        "year" : 2023,
+        "img" : "../img/realestate1.jpg",
+        "repository" : "https://github.com/",
+        "technologies" : ["HTML", "CSS", "UI/UX Design"]
+    }
+    
+]
